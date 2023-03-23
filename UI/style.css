@@ -13,7 +13,7 @@ html {
     text-align: center;
     user-select: none;
     cursor: pointer;
-    
+
 }
 
 
@@ -29,7 +29,7 @@ html {
     grid-template-columns: repeat(3, auto);
     width: 225px;
     margin: auto;
-   
+
 }
 
 .cell:nth-child(3n-2) {
@@ -47,7 +47,7 @@ html {
 
 #restartBtn {
     background-color: #51b3f5;
-    
+
     border-radius: 40%;
     color: rgb(0, 0, 0);
     padding: 15px 3px;
@@ -57,16 +57,17 @@ html {
     font-size: 20px;
     cursor: pointer;
     font-family: "permanent Marker", cursive;
- 
+
 
 }
-#my-select{
-  
+
+#my-select {
+
     color: rgb(0, 0, 0);
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 15px;
     font-family: "permanent Marker", cursive;
-   
+
 }

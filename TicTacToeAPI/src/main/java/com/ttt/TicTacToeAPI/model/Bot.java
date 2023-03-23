@@ -15,7 +15,7 @@ public class Bot {
     public int makeMove(Board inputboard) {
         Board board = inputboard;
         Random random = new Random();
-        int randomMove=0;
+        int randomMove = 0;
         boolean correctPostion = false;
 
 
@@ -35,12 +35,6 @@ public class Bot {
     public char getSymbol() {
         return symbol;
     }
-
-
-
-
-
-
 
 
 }
