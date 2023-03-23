@@ -47,10 +47,10 @@ html {
 
 #restartBtn {
     background-color: #51b3f5;
-    /* Green */
+    
     border-radius: 40%;
     color: rgb(0, 0, 0);
-    padding: 15px 32px;
+    padding: 15px 3px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -59,4 +59,14 @@ html {
     font-family: "permanent Marker", cursive;
  
 
+}
+#my-select{
+  
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    font-family: "permanent Marker", cursive;
+   
 }
